@@ -30,4 +30,6 @@ git branch -> List branches
 git switch <branch_name> -> Switch branch
 git checkout <branch_name> -> Switch branch
 
+git merge <branch_name> -> Merge branch
+
 
