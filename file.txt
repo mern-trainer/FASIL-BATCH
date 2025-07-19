@@ -1,0 +1,21 @@
+Hello 
+
+Git -> Version Control System
+Github -> Host for Version Control System -> bitbucket, gitlab
+
+-> Git Commands
+
+git init -> Initialize a repository
+
+git config --global user.name "username" -> Set username
+git config --global user.email "email" -> Set email
+
+git add . -> Stage files
+git add <file_name_1> <file_name_2> -> Stage files
+
+git commit -m "message" -> Commit files
+
+git remote add <remote_name> <remote_url> -> Add remote repo
+
+git push <remote_name> <branch_name> -> Push files
+
