@@ -17,5 +17,8 @@ git commit -m "message" -> Commit files
 
 git remote add <remote_name> <remote_url> -> Add remote repo
 
+git remote -> List remotes
+git config --get remote.<remote_name>.url -> Get remote url
+
 git push <remote_name> <branch_name> -> Push files
 
