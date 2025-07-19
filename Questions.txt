@@ -1,0 +1,15 @@
+1. What is git?
+2. What is github?
+3. What is version control system?
+4. What are the commands in git?
+5. What is the difference between git and github?
+6. How to initialize a repository?
+7. How to set username and email?
+8. What is staged changes and how to stage files?
+9. How to commit files?
+10. How to add remote repo?
+11. How to list remotes?
+12. What is remote url?
+13. How to push files?
+14. Create a file named "sample.txt" with "Hello" in it and commit it.
+15. Create a file named data.txt, hey.txt and hello.txt. Add data.txt and hello.txt to stage. Commit it.

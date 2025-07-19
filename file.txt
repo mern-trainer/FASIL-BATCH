@@ -22,3 +22,12 @@ git config --get remote.<remote_name>.url -> Get remote url
 
 git push <remote_name> <branch_name> -> Push files
 
+-> Branch
+
+git branch <branch_name> -> Create branch
+git branch -> List branches
+
+git switch <branch_name> -> Switch branch
+git checkout <branch_name> -> Switch branch
+
+
